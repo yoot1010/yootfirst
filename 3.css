@@ -1,0 +1,17 @@
+.main-box {
+    border: 1px solid black;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.img {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+.img2 {
+    border: 1px solid black;
+    width: 400px;
+}
